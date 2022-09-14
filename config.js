@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Chú Bí iu dấu ui',
+    introDesc: `và cháu chỉ cần chú biết một điều duy nhất là : CHÁU THÍCH CHÚ <3`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Có biết trái tim cháu đang rung rinh lên chỉ vì chú? 🥰',
+    desc: 'Liệu chú có thích cháu không ? ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao chú lại thích cháu <3',
+    btnReply: 'Gửi cho cháu <3',
+    reply: 'vì cháu cute lắm đó <33333333',
+    mess: 'cháu biết mà 🥰. iu chú Bí moa moa 😘😘',
+    messDesc: 'Tối nay cháu hát chú nghe nha <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://github.com/LinLincute/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
